@@ -18,10 +18,11 @@ def div(a, b):
 
 
 A = [-21703,67997]
-length = 1001
 
+length = 1001
 dx = 1
 count = 0
+
 for x in range(length):
     for y in range(length):
         stop = 0
